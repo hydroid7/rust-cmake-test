@@ -9,4 +9,4 @@ edition = "2021"
 
 
 [build-dependencies]
-cmake = "0.1.31"
+cmake = "0.1.50"
