@@ -1,0 +1,4 @@
+# Using CMake static library from Rust
+
+Code based on this [tutorial](https://flames-of-code.netlify.app/blog/rust-and-cmake/).
+
